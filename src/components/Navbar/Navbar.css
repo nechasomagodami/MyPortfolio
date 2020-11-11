@@ -1,0 +1,10 @@
+.nav {
+  grid-area: n;
+  background-color: rgb(159, 85, 243);
+}
+
+.string {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+}
